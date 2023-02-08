@@ -4,7 +4,7 @@
   "description": "Melhor gerador de senhas de todos os tempos",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite --open"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/pedroasiqueira/frontEnd-trybeExercicios#readme",
   "dependencies": {
-    "nanoid": "^4.0.1"
+    "nanoid": "^4.0.1",
+    "vite": "^4.1.1"
   },
   "type": "module"
 }
