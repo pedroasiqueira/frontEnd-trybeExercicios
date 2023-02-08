@@ -1,1 +1,1 @@
-# frontEnd-trybeExercicios
+Este é o repositório para o módulo de FrontEnd na Trybe
