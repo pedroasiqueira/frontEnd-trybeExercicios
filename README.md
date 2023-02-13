@@ -1,1 +1,1 @@
-Este é o repositório para o módulo de FrontEnd na Trybe
+Este é o repositório para o módulo de FrontEnd na Trybe.
