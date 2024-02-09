@@ -1,0 +1,24 @@
+{
+  "name": "gerador-de-senhas",
+  "version": "1.0.0",
+  "description": "Melhor gerador de senhas de todos os tempos",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroasiqueira/frontEnd-trybeExercicios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroasiqueira/frontEnd-trybeExercicios/issues"
+  },
+  "homepage": "https://github.com/pedroasiqueira/frontEnd-trybeExercicios#readme",
+  "dependencies": {
+    "nanoid": "^4.0.1",
+    "vite": "^4.1.1"
+  },
+  "type": "module"
+}
